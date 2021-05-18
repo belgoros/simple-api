@@ -9,7 +9,7 @@ end
 
 gem 'active_model_serializers', '~> 0.10.7'
 gem 'faker',     '~> 1.9.1'
-gem 'puma',                     '~> 3.12'
+gem 'puma',                     '~> 4.3'
 gem 'rack-cors',                '~> 1.0'
 gem 'rails',                    '~> 5.1.5'
 
